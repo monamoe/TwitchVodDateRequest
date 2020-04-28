@@ -1,0 +1,17 @@
+{
+  "name": "daterequest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "require": "^2.4.20",
+    "twitch-api-v5": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
